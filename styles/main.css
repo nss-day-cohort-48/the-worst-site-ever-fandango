@@ -1,3 +1,5 @@
+/* HEADER */
+
 .annoying-header {
     background-color: #00ff00;
     min-height: 30rem;
@@ -22,4 +24,42 @@
 
 .annoying-header-text-word {
     margin: .5rem;
+}
+
+/* NAV BAR */
+
+
+.navigation {
+  display: flex;
+  flex: wrap;
+  justify-content: space-around;
+  background-color: yellow;
+  width: 100%;
+  height: 3rem;
+  border: #E1F842 3px dashed;
+}
+
+.nav-greet {
+
+}
+
+.nav-home {
+/* Maybe send this south, too? */
+}
+
+.nav-team {
+  display: flex;
+  align-items: flex-end;
+}
+
+.nav-services {
+
+}
+
+a {
+  color: yellow;
+}
+
+a:hover {
+  color:#E1F842;
 }
