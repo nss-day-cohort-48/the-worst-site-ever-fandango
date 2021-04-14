@@ -1,5 +1,8 @@
 /* HEADER */
 
+@import "/styles/services.css";
+
+
 .annoying-header {
     background-color: #00ff00;
     min-height: 30rem;
@@ -63,3 +66,4 @@ a {
 a:hover {
   color:#E1F842;
 }
+
