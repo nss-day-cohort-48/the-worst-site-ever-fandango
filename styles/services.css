@@ -53,3 +53,6 @@
     from{ bottom:-100px; opacity:0 } 
     to{ bottom:0; opacity:1 }
   }
+
+  .space {height: 60rem;
+  }
