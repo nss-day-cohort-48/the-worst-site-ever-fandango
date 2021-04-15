@@ -1,7 +1,4 @@
-
-
 @import "services.css";
-
 
 /* HEADER */
 
@@ -42,6 +39,7 @@
     border-radius: 4rem;
 }
 
+
 /* NAV BAR */
 
 .navigation {
@@ -59,12 +57,10 @@
     height: 30rem;
 }
 
-
 .nav-team {
     display: flex;
     align-items: flex-end;
 }
-
 
 a {
     color: yellow;
@@ -76,4 +72,14 @@ a:hover {
 
 .navbar-guide {
     width: 100%;
+}
+
+.customer {
+    width: 50%;
+    height: 10rem;
+}
+
+.customers {
+    background-color: crimson;
+    border: darkgreen dotted 10px;
 }
