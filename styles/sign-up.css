@@ -1,12 +1,12 @@
-body {
+.sign-up-body {
     background: chartreuse;
-    color:yellow;
+    color: yellow;
 }
 
 .container {
-    display:flex;
+    display: flex;
     /*flex-wrap:wrap;*/
-    text-align:center;
+    text-align: center;
     margin-right: auto;
     margin-left: auto;
     width: 750px;
@@ -31,10 +31,9 @@ body {
 }
 
 .no__button {
-margin-right: 100px;
+    margin-right: 100px;
 }
 
 .yes__button {
     margin-left: 100px;
 }
-
