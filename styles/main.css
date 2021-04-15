@@ -30,6 +30,14 @@
     margin: .5rem;
 }
 
+.about {
+    background-color: black;
+    color: darkblue;
+    font-size: 40px;
+    margin-right: 30%;
+    border-radius: 4rem;
+}
+
 
 /* NAV BAR */
 
@@ -68,3 +76,9 @@ a {
 a:hover {
     color: #E1F842;
 }
+
+
+.navbar-guide {
+    width: 100%;
+}
+
