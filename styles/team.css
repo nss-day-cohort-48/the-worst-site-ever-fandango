@@ -1,21 +1,14 @@
 body {
-    background: greenyellow;
+    background: chartreuse;
     text-align: center;
     margin-top: 50%;
     color:yellow;
 }
 
-.container__center {
-    display:flex;
-    flex-wrap:wrap;
-    text-align:center;
-    margin:0px auto;
-    width: 400px;
+u {
+    color: black;
 }
 
-.center-column {
-    width: 100%;
-    max-width: 30%;
-    border: 1px solid black;
-    margin: 5px;
+a {
+    text-decoration: none;
 }
