@@ -1,14 +1,40 @@
+body {
+    background: chartreuse;
+    color:yellow;
+}
+
 .container {
     display:flex;
-    flex-wrap:wrap;
+    /*flex-wrap:wrap;*/
     text-align:center;
-    margin:0px auto;
-    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 750px;
 }
 
 .container__center {
     width: 100%;
     max-width: 30%;
     border: 1px solid black;
-    margin: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30%;
 }
+
+.fakeimg {
+    align-items: center;
+}
+
+.jazz__question {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.no__button {
+margin-right: 100px;
+}
+
+.yes__button {
+    margin-left: 100px;
+}
+

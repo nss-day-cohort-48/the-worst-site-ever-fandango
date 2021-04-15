@@ -1,5 +1,9 @@
 /* HEADER */
 
+@import "/styles/sign-up.css";
+@import "/styles/team-chaos.css";
+@import "/styles/team.css";
+
 .annoying-header {
     background-color: #00ff00;
     min-height: 30rem;
@@ -73,6 +77,8 @@ a:hover {
     color: #E1F842;
 }
 
+
 .navbar-guide {
     width: 100%;
 }
+
