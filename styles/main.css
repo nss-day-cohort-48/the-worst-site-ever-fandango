@@ -1,3 +1,8 @@
+
+
+@import "services.css";
+
+
 /* HEADER */
 
 @import "/styles/sign-up.css";
@@ -38,7 +43,6 @@
     border-radius: 4rem;
 }
 
-
 /* NAV BAR */
 
 .navigation {
@@ -56,18 +60,12 @@
     height: 30rem;
 }
 
-.nav-greet {}
-
-.nav-home {
-    /* Maybe send this south, too? */
-}
 
 .nav-team {
     display: flex;
     align-items: flex-end;
 }
 
-.nav-services {}
 
 a {
     color: yellow;
